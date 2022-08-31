@@ -15,6 +15,11 @@ const poems = [
     image: "bee.jpeg",
   },
   {
+    author: "Homer Simpson",
+    poem: "Roses are red \n Violets are blue \n idk what to write \n please don't make bee movie 2",
+    image: "homersimpson.jpeg",
+    },
+{
     author: "Max",
     poem: `All doggies go to heaven (or so I've been told).
     They run and play along the streets of gold.
