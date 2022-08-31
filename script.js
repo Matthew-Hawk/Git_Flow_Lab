@@ -15,8 +15,8 @@ const poems = [
     image: "bee.jpeg",
   },
   {
-    author: "Irene",
-    poem: "Roses are red \n violets are blue \n white wine costs less than a dinner for two.",
+    author: "irene",
+    poem: "Roses are red \n violets are blue \n white wine costs less than a dinner for two",
     image: "wine.jpeg",
   }
 
