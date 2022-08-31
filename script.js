@@ -20,7 +20,7 @@ const poems = [
     They run and play along the streets of gold.
     Why is heaven such a doggie-delight?
     Why, because there's not a single cat in sight!`,
-    image: "pizza.jpeg",
+    image: "dog.jpeg",
   },
   // YOUR CODE HERE: Add an object containing two key value pairs: author and poem. Set the author property as equal to a string with your first name. Set the poem property as equal to a short "roses are red" poem. Use the new line character as in the example when you would like a line break.
 ];
